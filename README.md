@@ -27,14 +27,17 @@ Para mantener un aprendizaje ordenado, el código se divide en 4 pilares:
 ## 📈 Progreso en este Lenguaje
 | Categoría | Completados |
 | :--- | :---: |
-| Fundamentos | 0 |
+| Fundamentos | 1 |
 | Retos de Lógica | 1 |
-| Plataformas | 0 |
-| Proyectos | 0 |
+| Plataformas | 1 |
+| Proyectos | 1 |
 
 ---
-### 🚀 Último Reto Añadido:
-**Día 01:** [001-leap-year.py](./02-Retos-Logica/001_leap_year.py) - *Lógica de año bisiesto implementada.*
+### 🚀 Contenido del Día 01:
+- **Fundamentos:** [001-variables-tipos.py](./01-Fundamentos/001-variables-tipos.py)
+- **Retos de Lógica:** [001-leap-year.py](./02-Retos-Logica/001_leap_year.py)
+- **Plataformas:** [001-hello-world-leetcode.py](./03-Plataformas/001-hello-world-leetcode.py)
+- **Proyectos:** [001-system-info-tool.py](./04-Proyectos/001-system-info-tool.py)
 
 ---
 [⬅️ Volver al Hub Principal](https://github.com/FREELANCER-KFH/365-Days-of-Logic)
